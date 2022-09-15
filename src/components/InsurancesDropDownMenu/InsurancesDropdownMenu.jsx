@@ -42,7 +42,7 @@ function InsurancesDropdownMenu() {
             {/* specialization dropdown menu */}
             <FormControl sx={{ m: 1, width: 250 }}>
                 <InputLabel id="multiple-insurances-label">
-                    Insurances
+                    Insurances Accepted
                 </InputLabel>
                 <Select
                     labelId="demo-multiple-name-label"
